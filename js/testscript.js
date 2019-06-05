@@ -1,3 +1,3 @@
-button {
-   background-color: aqua;
+function buttonClicked() {
+   alert("javascript worked");
 }
